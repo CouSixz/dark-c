@@ -1,0 +1,11 @@
+.env
+**/__pycache__/
+*.pyc
+**/node_modules/
+painel/motor/build/
+painel/dados/*
+!painel/dados/acervo_modelos.json
+!painel/dados/acervo_animacoes.json
+producoes/
+scratch/
+teste-mais-tarde/

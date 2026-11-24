@@ -1,0 +1,34 @@
+[
+  {
+    "id": "e-se-no-brasil",
+    "name": "E Se no Brasil",
+    "description": "Hipóteses científicas extremas, escalas cósmicas e experimentos mentais vertiginosos explicados com narrativa acelerada, boneco palito 3D expressivo e humor inteligente.",
+    "hook": "Afirmação imediata e chocante nos primeiros 2 segundos: 'Em menos de 10 minutos, você estaria cercado por...' ou 'Se isso acontecesse agora, o Brasil pararia em 24 horas!' sem introduções mornas.",
+    "style": "Animação 3D Toon com boneco palito expressivo (Stickman Puppet com reações de pânico, choque, pulos e suor), cenários 3D vibrantes, câmera com push-in contínuo e legendas cinéticas palavra por palavra.",
+    "voice": "Narração enérgica, rápida e magnética em português brasileiro (~3 palavras por segundo), ritmo acelerado e pausas milimétricas para suspense.",
+    "link": "https://www.youtube.com/@kurzgesagt",
+    "pautas": [
+      "E se caísse uma gota d'água na velocidade da luz sobre o Maracanã?",
+      "O que aconteceria se o Aquífero Guarani secasse em apenas 24 horas?",
+      "O que realmente acontece com suas células quando você pega um torrão de sol na praia?",
+      "E se todas as formigas do Brasil decidissem se rebelar contra a humanidade?",
+      "E se a gravidade no Brasil ficasse duas vezes mais forte por 60 segundos?"
+    ]
+  },
+  {
+    "id": "geografia-oculta",
+    "name": "Geografia Oculta",
+    "description": "Paradoxos territoriais, logística colossal, infraestruturas extremas e mistérios de fronteiras do Brasil e da América do Sul explicados através de mapas táticos, dados fascinantes e geopolítica prática.",
+    "hook": "Por que quase ninguém mora nesta faixa do Brasil, mesmo ela sendo maior que países inteiros da Europa?",
+    "style": "Estética de mapa tático e infográfico de precisão: fundo escuro (ardósia e grafite), malhas de relevo, fronteiras luminosas e rotas em neon suave (laranja-âmbar e ciano). Câmera fluida com zoom topográfico e camadas de dados visuais.",
+    "voice": "Narrador investigativo em português brasileiro, tom firme, intrigado e seguro, ritmo dinâmico que conduz o espectador por números monumentais sem soar maçante.",
+    "link": "https://www.youtube.com/@RealLifeLore",
+    "pautas": [
+      "Por que 80% da população brasileira ainda vive a menos de 200 km da costa?",
+      "A cidade brasileira que fica mais perto de 4 capitais de outros países do que da própria capital do estado.",
+      "Por que o Brasil tem a maior rede de rios do planeta, mas quase não transporta carga por água?",
+      "O pedaço de terra no extremo norte do Brasil que a França até hoje monitora de perto.",
+      "A ferrovia fantasma no meio da Amazônia que custou fortunas e sumiu engolida pela floresta."
+    ]
+  }
+]
